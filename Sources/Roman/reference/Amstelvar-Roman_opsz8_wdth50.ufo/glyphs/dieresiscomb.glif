@@ -31,7 +31,13 @@
 			<point x="-290" y="1285"/>
 		</contour>
 	</outline>
+<<<<<<< HEAD
 	<anchor name="_GRK_top" x="0" y="1050"/>
 	<anchor name="_top" x="0" y="1050"/>
 	<anchor name="top" x="0" y="1461"/>
+=======
+	<anchor name="_top" x="0" y="1050"/>
+	<anchor name="top" x="0" y="1461"/>
+	<anchor name="_GRKtop" x="0" y="1050"/>
+>>>>>>> origin/main
 </glyph>

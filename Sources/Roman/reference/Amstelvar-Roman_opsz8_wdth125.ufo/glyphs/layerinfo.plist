@@ -6,6 +6,13 @@
 		<string>1,0.75,0,0.7</string>
 		<key>lib</key>
 		<dict>
+<<<<<<< HEAD
+=======
+			<key>com.typemytype.robofont.layerShowFill</key>
+			<false/>
+			<key>com.typemytype.robofont.layerShowPoints</key>
+			<true/>
+>>>>>>> origin/main
 			<key>org.unifiedfontobject.normalizer.imageReferences</key>
 			<dict>
 			</dict>

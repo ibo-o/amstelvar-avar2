@@ -18,6 +18,15 @@
       "parent": "XOPQ",
       "description": "X stem uppercase"
     },
+    "XOUA": {
+      "direction": "a",
+      "glyph 1": "tildecomb.case",
+      "point 1": "19",
+      "glyph 2": "tildecomb.case",
+      "point 2": "6",
+      "parent": "XOPQ",
+      "description": "Uppercase accents main weight"
+    },
     "XOLC": {
       "direction": "x",
       "glyph 1": "n",
@@ -26,6 +35,15 @@
       "point 2": "34",
       "parent": "XOPQ",
       "description": "X stem lowercase"
+    },
+    "XOLA": {
+      "direction": "a",
+      "glyph 1": "tildecomb",
+      "point 1": "19",
+      "glyph 2": "tildecomb",
+      "point 2": "6",
+      "parent": "XOPQ",
+      "description": "Lowercase accents main weight"
     },
     "XOFI": {
       "direction": "x",
@@ -45,6 +63,15 @@
       "parent": "XOPQ",
       "description": "X stem etcetera"
     },
+    "XDOT": {
+      "direction": "x",
+      "glyph 1": "period",
+      "point 1": "0",
+      "glyph 2": "period",
+      "point 2": "6",
+      "parent": "XOPQ",
+      "description": "Dot width"
+    },
     "YOPQ": {
       "direction": "y",
       "glyph 1": "H",
@@ -63,6 +90,15 @@
       "parent": "YOPQ",
       "description": "Y stem uppercase"
     },
+    "YOUA": {
+      "direction": "a",
+      "glyph 1": "tildecomb.case",
+      "point 1": "0",
+      "glyph 2": "tildecomb.case",
+      "point 2": "25",
+      "parent": "YOPQ",
+      "description": "Uppercase accents secondary weight"
+    },
     "YOLC": {
       "direction": "y",
       "glyph 1": "o",
@@ -71,6 +107,15 @@
       "point 2": "3",
       "parent": "YOPQ",
       "description": "Y stem lowercase"
+    },
+    "YOLA": {
+      "direction": "a",
+      "glyph 1": "tildecomb",
+      "point 1": "0",
+      "glyph 2": "tildecomb",
+      "point 2": "25",
+      "parent": "YOPQ",
+      "description": "Lowercase accents secondary weight"
     },
     "YOFI": {
       "direction": "y",
@@ -89,6 +134,15 @@
       "point 2": "15",
       "parent": "YOPQ",
       "description": "Y stem etcetera"
+    },
+    "YDOT": {
+      "direction": "y",
+      "glyph 1": "period",
+      "point 1": "9",
+      "glyph 2": "period",
+      "point 2": "3",
+      "parent": "YOPQ",
+      "description": "Dot height"
     },
     "XTRA": {
       "direction": "x",
@@ -126,6 +180,15 @@
       "parent": "XTRA",
       "description": "X transparent uppercase diagonals"
     },
+    "XTUA": {
+      "direction": "x",
+      "glyph 1": "circumflexcomb.case",
+      "point 1": "7",
+      "glyph 2": "circumflexcomb.case",
+      "point 2": "5",
+      "parent": "XTRA",
+      "description": "Uppercase accent width"
+    },
     "XTLC": {
       "direction": "x",
       "glyph 1": "n",
@@ -153,6 +216,15 @@
       "parent": "XTRA",
       "description": "X transparent lowercase diagonals"
     },
+    "XTLA": {
+      "direction": "x",
+      "glyph 1": "circumflexcomb",
+      "point 1": "7",
+      "glyph 2": "circumflexcomb",
+      "point 2": "5",
+      "parent": "XTRA",
+      "description": "Lowercase accent width"
+    },
     "XTFI": {
       "direction": "x",
       "glyph 1": "zero",
@@ -170,6 +242,33 @@
       "point 2": 60,
       "parent": "XTRA",
       "description": "X transparent etcetera"
+    },
+    "XQUC": {
+      "direction": "x",
+      "glyph 1": "O",
+      "point 1": "22",
+      "glyph 2": "O",
+      "point 2": 21,
+      "parent": "XTRA",
+      "description": "X internal curvature uppercase"
+    },
+    "XQLC": {
+      "direction": "x",
+      "glyph 1": "o",
+      "point 1": "22",
+      "glyph 2": "o",
+      "point 2": "21",
+      "parent": "XTRA",
+      "description": "X internal curvature lowercase"
+    },
+    "XQFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "22",
+      "glyph 2": "zero",
+      "point 2": 21,
+      "parent": "XTRA",
+      "description": "X internal curvature figures"
     },
     "YTRA": {
       "direction": "y",
@@ -423,6 +522,33 @@
       "parent": "",
       "description": "General vertical serif angle"
     },
+    "XVAU": {
+      "direction": "x",
+      "glyph 1": "T",
+      "point 1": "5",
+      "glyph 2": "T",
+      "point 2": "4",
+      "parent": "XVAA",
+      "description": "Uppercase vertical serif angle"
+    },
+    "XVAL": {
+      "direction": "x",
+      "glyph 1": "r",
+      "point 1": "16",
+      "glyph 2": "r",
+      "point 2": "15",
+      "parent": "XVAA",
+      "description": "Lowercase vertical serif angle"
+    },
+    "XVAF": {
+      "direction": "x",
+      "glyph 1": "seven",
+      "point 1": "12",
+      "glyph 2": "seven",
+      "point 2": "11",
+      "parent": "XVAA",
+      "description": "Figures vertical serif angle"
+    },
     "YHAA": {
       "direction": "y",
       "glyph 1": "H",
@@ -510,7 +636,7 @@
       "point 1": "-1",
       "glyph 2": "O",
       "point 2": "0",
-      "parent": "XUCS",
+      "parent": "XTSA",
       "description": "X sidebearing uppercase rounds"
     },
     "XUCD": {
@@ -519,7 +645,7 @@
       "point 1": "-1",
       "glyph 2": "V",
       "point 2": "21",
-      "parent": "XUCS",
+      "parent": "XTSA",
       "description": "X sidebearing uppercase diagonals"
     },
     "XLCS": {
@@ -537,7 +663,7 @@
       "point 1": "-1",
       "glyph 2": "o",
       "point 2": "0",
-      "parent": "XLCS",
+      "parent": "XTSA",
       "description": "X sidebearing lowercase rounds"
     },
     "XLCD": {
@@ -546,7 +672,7 @@
       "point 1": "-1",
       "glyph 2": "v",
       "point 2": "21",
-      "parent": "XLCS",
+      "parent": "XTSA",
       "description": "X sidebearing lowercase diagonals"
     },
     "XFIR": {
@@ -748,7 +874,7 @@
       "description": "Trap width"
     },
     "YTTL": {
-      "direction": "y",
+      "direction": "a",
       "glyph 1": "V",
       "point 1": "7",
       "glyph 2": "V",
@@ -8088,6 +8214,10 @@
         "name": "XTUC",
         "direction": "x"
       },
+      "4 10": {
+        "name": "YTUC",
+        "direction": "y"
+      },
       "10 8": {
         "name": "XSHU",
         "direction": "x"
@@ -8100,11 +8230,11 @@
         "name": "XSHU",
         "direction": "x"
       },
-      "11 13": {
+      "13 11": {
         "name": "XSHU",
         "direction": "x"
       },
-      "23 25": {
+      "25 23": {
         "name": "XSHU",
         "direction": "x"
       },
@@ -8140,12 +8270,12 @@
         "name": "XSVU",
         "direction": "x"
       },
-      "0 2": {
+      "2 3": {
         "name": "YSVU",
         "direction": "y"
       },
-      "3 2": {
-        "name": "XVAU",
+      "-1 6": {
+        "name": "XUCS",
         "direction": "x"
       },
       "1 0": {
@@ -14376,6 +14506,14 @@
         "name": "XTUR",
         "direction": "x"
       },
+      "7 6": {
+        "name": "XQUC",
+        "direction": "x"
+      },
+      "6 5": {
+        "name": "XQUC",
+        "direction": "x"
+      },
       "30 19": {
         "name": "YTUC",
         "direction": "y"
@@ -17169,6 +17307,10 @@
         "direction": "x"
       },
       "10 8": {
+        "name": "XSHU",
+        "direction": "x"
+      },
+      "24 22": {
         "name": "XSHU",
         "direction": "x"
       },
@@ -21164,6 +21306,25 @@
         "name": "XVAU",
         "direction": "x"
       }
-    }
+    },
+    "Igravecyr": {},
+    "Yi-dieresiscomb.case": {},
+    "Ycircumflex": {},
+    "Tcommaaccent": {},
+    "Uhookabove": {},
+    "Emacron": {},
+    "Gcommaaccent": {},
+    "Scedilla": {},
+    "Ecaron": {},
+    "Ebreve": {},
+    "Ldot": {},
+    "Uhungarumlaut": {},
+    "Ubreve": {},
+    "Zcaron": {},
+    "Jacute.loclNLD": {},
+    "Ahookabove": {},
+    "Ecircumflexgrave": {},
+    "Kcommaaccent": {},
+    "Lcaron": {}
   }
 }

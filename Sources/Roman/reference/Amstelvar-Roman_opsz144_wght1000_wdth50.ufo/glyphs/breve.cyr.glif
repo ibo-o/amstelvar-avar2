@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve.cyr" format="2">
+<<<<<<< HEAD
 	<advance width="915"/>
 	<outline>
 		<component base="breve.cyrcomb"/>
+=======
+	<advance width="896"/>
+	<outline>
+		<component base="breve.cyrcomb" xOffset="448"/>
+>>>>>>> origin/main
 	</outline>
 </glyph>

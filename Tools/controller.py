@@ -9,6 +9,7 @@ from fontTools.designspaceLib import DesignSpaceDocument, SourceDescriptor, Axis
 from xTools4.modules.xproject import xProject, makeParentAxis
 from xTools4.modules.measurements import setSourceNamesFromMeasurements, readMeasurements, extractMeasurements, permille
 from xTools4.modules.sys import timer
+from xTools4.modules.fontutils import parseGString
 
 
 _parametricAxesRoman  = 'WDSP GRAD '
@@ -209,7 +210,6 @@ class AmstelvarA2Controller(xProject):
 
         print(f'({os.path.exists(referenceBlendsPath)})\n')
 
-
     def buildBlendsFile(self, parentParametric=True):
         if not os.path.exists(self.referenceBlendsPath):
             return
@@ -382,9 +382,13 @@ class AmstelvarA2Controller(xProject):
     def proofBlends(self, glyphNames, margins=True, labels=True, levels=False, levelsShow=[1, 2, 3, 4], header=True, footer=True, points=False):
         super().proofBlends(glyphNames, familyName=self.subFamily, margins=margins, labels=labels, levels=levels, levelsShow=levelsShow, header=header, footer=footer, points=points)
 
-    def updateGlyphsFromDefault(self, glyphNames, oldDefaultName, preflight=True, parametricSources=True, tuningSources=True):
+    def updateGlyphsFromDefault(self, glyphNames, oldDefaultName, preflight=True, parametric=True, tuning=True):
         oldDefaultPath = os.path.join(self.sourcesFolder, f'{self.familyName}-{self.subFamily}_{oldDefaultName}.ufo')
-        super().updateGlyphsFromDefault(glyphNames, oldDefaultPath, preflight=preflight, parametricSources=parametricSources, tuningSources=tuningSources)
+        super().updateGlyphsFromDefault(glyphNames, oldDefaultPath, preflight=preflight, parametric=parametric, tuning=tuning)
+
+    def proofGlyphMemes(self, glyphNames, anchors=True):
+        proofsFolder = os.path.join(self.proofsFolder, 'PDF', 'glyph-memes', self.subFamily)
+        super().proofGlyphMemes(glyphNames, anchors=anchors, proofsFolder=proofsFolder)
 
 
 class AmstelvarA2Controller2(AmstelvarA2Controller):
@@ -666,19 +670,19 @@ if __name__ == '__main__':
     # p.tuningLevels = [1, 2, 3]
     # p.createTuningSources(sparse=False)
     # p.resetTuningSources()
-    # p.calculateTuningSources(list('ij'), referenceSource, levels=[1,2,3], tuneBaseGlyphs=True)
+    # p.calculateTuningSources('cent copyright registered trademark'.split(), referenceSource, levels=[1,2,3], tuneBaseGlyphs=True)
 
     # --- build designspace ---
-    p.parametricAxesHidden = True
-    p.tuningAxesHidden = True
-    p.tuning = True
-    p.buildDesignspace(patchBlends=False, instances=True, parentParametric=True)
+    # p.parametricAxesHidden = True
+    # p.tuningAxesHidden = True
+    # p.tuning = True
+    # p.buildDesignspace(patchBlends=False, instances=True, parentParametric=True)
     # p.validateDesignspace(locations=True, mappings=True, instances=False)
     # p.validateSources(parametric=False, tuning=False, reference=True)
 
     # --- normalization ---
-    # p.cleanupSources(parametric=True, tuning=True, reference=True)
-    # p.normalizeSources(parametric=True, tuning=True, reference=True)
+    p.cleanupSources(parametric=True, tuning=True, reference=True)
+    p.normalizeSources(parametric=True, tuning=True, reference=True)
 
     # --- project info ---
     # p.printSettings()
@@ -686,7 +690,8 @@ if __name__ == '__main__':
     # print(p.defaultLocation)
 
     # --- proofing ---
-    # p.proofGlyphMemes(list(string.ascii_uppercase + string.ascii_lowercase), anchors=False)
+    # glyphNames = ['Icyr'] # parseGString(p.defaultFont, 'Џ')
+    # p.proofGlyphMemes(glyphNames, anchors=True)
     # p.proofSourcesGlyphSet(showCompatible=True, validateComposites=True)
     # p.proofBlends(list(string.ascii_uppercase + string.ascii_lowercase), margins=True, labels=True, levels=False, levelsShow=[2], header=True, footer=True, points=False)
     # p.proofTuning(['idot'], referenceSource, level=3)
