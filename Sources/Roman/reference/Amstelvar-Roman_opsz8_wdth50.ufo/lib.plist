@@ -1012,8 +1012,6 @@
 			<string>brevebelow.case</string>
 			<string>macronbelow.case</string>
 			<string>periodcentered-loclCAT.case</string>
-<<<<<<< HEAD
-=======
 			<string>gravecomb-stack.case</string>
 			<string>acutecomb-stack.case</string>
 			<string>dieresiscomb-stack.case</string>
@@ -1055,7 +1053,6 @@
 			<string>ha-stroke</string>
 			<string>obarcyr-stroke</string>
 			<string>yu-i</string>
->>>>>>> origin/main
 		</array>
 	</dict>
 </plist>

@@ -1012,8 +1012,6 @@
 			<string>brevebelow.case</string>
 			<string>macronbelow.case</string>
 			<string>periodcentered-loclCAT.case</string>
-<<<<<<< HEAD
-=======
 			<string>diagonalbarL</string>
 			<string>Obarcyr-stroke</string>
 			<string>U-stroke</string>
@@ -1055,7 +1053,6 @@
 			<string>hookabovecomb-stack</string>
 			<string>breveinvertedcomb-stack</string>
 			<string>dblgravecomb-stack</string>
->>>>>>> origin/main
 		</array>
 		<key>public.postscriptNames</key>
 		<dict>

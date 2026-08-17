@@ -2,10 +2,6 @@
 <glyph name="periodcentered-loclCAT.case" format="2">
 	<advance width="1024"/>
 	<outline>
-<<<<<<< HEAD
-		<component base="periodcentered-loclCATcomb.case"/>
-	</outline>
-=======
 		<contour>
 			<point x="25" y="676" type="qcurve" smooth="yes"/>
 			<point x="25" y="755"/>
@@ -23,5 +19,4 @@
 		<component base="periodcentered-loclCATcomb.case" xOffset="-240" yOffset="-1070"/>
 	</outline>
 	<anchor name="_centerright" x="208" y="676"/>
->>>>>>> origin/main
 </glyph>

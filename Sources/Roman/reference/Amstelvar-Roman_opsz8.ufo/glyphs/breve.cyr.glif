@@ -2,10 +2,6 @@
 <glyph name="breve.cyr" format="2">
 	<advance width="1022"/>
 	<outline>
-<<<<<<< HEAD
-		<component base="breve.cyrcomb"/>
-=======
 		<component base="breve.cyrcomb" xOffset="511"/>
->>>>>>> origin/main
 	</outline>
 </glyph>

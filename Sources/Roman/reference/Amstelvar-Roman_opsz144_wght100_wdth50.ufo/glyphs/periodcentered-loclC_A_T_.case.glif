@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered-loclCAT.case" format="2">
-<<<<<<< HEAD
-	<advance width="1024"/>
-	<outline>
-		<component base="periodcentered-loclCATcomb.case"/>
-	</outline>
-=======
 	<advance width="553"/>
 	<outline>
 		<contour>
@@ -24,5 +18,4 @@
 		</contour>
 	</outline>
 	<anchor name="_centerright" x="212" y="675"/>
->>>>>>> origin/main
 </glyph>

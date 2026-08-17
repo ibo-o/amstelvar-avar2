@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonoscomb.case" format="2">
-<<<<<<< HEAD
-=======
 	<outline>
 		<contour>
 			<point x="-83" y="1174" type="line"/>
@@ -12,5 +10,4 @@
 		</contour>
 	</outline>
 	<anchor name="_tonos" x="164" y="1500"/>
->>>>>>> origin/main
 </glyph>

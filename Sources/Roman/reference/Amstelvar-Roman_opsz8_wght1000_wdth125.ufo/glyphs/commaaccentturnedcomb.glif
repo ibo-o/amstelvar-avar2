@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaaccentturnedcomb" format="2">
-<<<<<<< HEAD
-=======
 	<outline>
 		<contour>
 			<point x="175" y="1673" type="line"/>
@@ -24,5 +22,4 @@
 	</outline>
 	<anchor name="_top" x="0" y="1000"/>
 	<anchor name="top" x="0" y="1585"/>
->>>>>>> origin/main
 </glyph>

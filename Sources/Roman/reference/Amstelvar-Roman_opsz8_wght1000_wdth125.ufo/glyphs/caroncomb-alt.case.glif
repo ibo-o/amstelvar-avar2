@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb-alt.case" format="2">
-<<<<<<< HEAD
-=======
 	<outline>
 		<contour>
 			<point x="-33" y="1127" type="line"/>
@@ -19,5 +17,4 @@
 		</contour>
 	</outline>
 	<anchor name="_topright" x="-210" y="1100"/>
->>>>>>> origin/main
 </glyph>

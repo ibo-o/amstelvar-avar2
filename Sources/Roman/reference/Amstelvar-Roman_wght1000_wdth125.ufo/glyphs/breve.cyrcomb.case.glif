@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="breve.cyrcomb.case" format="2">
-<<<<<<< HEAD
-=======
 	<outline>
 		<contour>
 			<point x="0" y="1777" type="qcurve"/>
@@ -22,5 +20,4 @@
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>
 	<anchor name="top" x="0" y="1500"/>
->>>>>>> origin/main
 </glyph>

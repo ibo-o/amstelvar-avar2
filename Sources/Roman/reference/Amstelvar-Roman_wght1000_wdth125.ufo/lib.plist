@@ -1012,8 +1012,6 @@
 			<string>brevebelow.case</string>
 			<string>macronbelow.case</string>
 			<string>periodcentered-loclCAT.case</string>
-<<<<<<< HEAD
-=======
 			<string>ustraight-stroke</string>
 			<string>yu.bgr-stroke</string>
 			<string>cy-descendercomb</string>
@@ -1055,7 +1053,6 @@
 			<string>hookabovecomb-stack.case</string>
 			<string>breveinvertedcomb-stack.case</string>
 			<string>dblgravecomb-stack.case</string>
->>>>>>> origin/main
 		</array>
 	</dict>
 </plist>
