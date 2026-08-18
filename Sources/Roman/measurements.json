@@ -558,6 +558,15 @@
       "parent": "",
       "description": "General horizontal serif angle"
     },
+    "XVAU": {
+      "direction": "x",
+      "glyph 1": "T",
+      "point 1": "5",
+      "glyph 2": "T",
+      "point 2": "4",
+      "parent": "XVAA",
+      "description": "Uppercase vertical serif angle"
+    },
     "YHAU": {
       "direction": "y",
       "glyph 1": "H",
@@ -567,6 +576,15 @@
       "parent": "YHAA",
       "description": "Uppercase horizontal serif angle"
     },
+    "XVAL": {
+      "direction": "x",
+      "glyph 1": "r",
+      "point 1": "16",
+      "glyph 2": "r",
+      "point 2": "15",
+      "parent": "XVAA",
+      "description": "Lowercase vertical serif angle"
+    },
     "YHAL": {
       "direction": "y",
       "glyph 1": "n",
@@ -575,6 +593,15 @@
       "point 2": "2",
       "parent": "YHAA",
       "description": "Lowercase horizontal serif angle"
+    },
+    "XVAF": {
+      "direction": "x",
+      "glyph 1": "seven",
+      "point 1": "12",
+      "glyph 2": "seven",
+      "point 2": "11",
+      "parent": "XVAA",
+      "description": "Figures vertical serif angle"
     },
     "YHAF": {
       "direction": "y",
@@ -729,6 +756,69 @@
       "parent": "YTOS",
       "description": "Descender overshoot"
     },
+    "XOAC": {
+      "direction": "a",
+      "glyph 1": "acutecomb",
+      "point 1": "8",
+      "glyph 2": "acutecomb",
+      "point 2": "1",
+      "parent": "",
+      "description": "Accents main weight"
+    },
+    "XOUA": {
+      "direction": "a",
+      "glyph 1": "tildecomb.case",
+      "point 1": "19",
+      "glyph 2": "tildecomb.case",
+      "point 2": "6",
+      "parent": "XOAC",
+      "description": "Uppercase accents main weight"
+    },
+    "XOLA": {
+      "direction": "a",
+      "glyph 1": "tildecomb",
+      "point 1": "19",
+      "glyph 2": "tildecomb",
+      "point 2": "6",
+      "parent": "XOAC",
+      "description": "Lowercase accents main weight"
+    },
+    "YOAC": {
+      "direction": "a",
+      "glyph 1": "acutecomb",
+      "point 1": "5",
+      "glyph 2": "acutecomb",
+      "point 2": "4",
+      "parent": "",
+      "description": "Accents secondary weight"
+    },
+    "YOUA": {
+      "direction": "a",
+      "glyph 1": "tildecomb.case",
+      "point 1": "0",
+      "glyph 2": "tildecomb.case",
+      "point 2": "25",
+      "parent": "YOAC",
+      "description": "Uppercase accents secondary weight"
+    },
+    "YOLA": {
+      "direction": "a",
+      "glyph 1": "tildecomb",
+      "point 1": "0",
+      "glyph 2": "tildecomb",
+      "point 2": "25",
+      "parent": "YOAC",
+      "description": "Lowercase accents secondary weight"
+    },
+    "XTUA": {
+      "direction": "x",
+      "glyph 1": "circumflexcomb.case",
+      "point 1": "7",
+      "glyph 2": "circumflexcomb.case",
+      "point 2": "5",
+      "parent": "",
+      "description": "Uppercase accent width"
+    },
     "YTUA": {
       "direction": "y",
       "glyph 1": "acutecomb.case",
@@ -746,6 +836,15 @@
       "point 2": "9",
       "parent": "",
       "description": "Uppercase accent height"
+    },
+    "XTLA": {
+      "direction": "x",
+      "glyph 1": "circumflexcomb",
+      "point 1": "7",
+      "glyph 2": "circumflexcomb",
+      "point 2": "5",
+      "parent": "",
+      "description": "Lowercase accent width"
     },
     "YTLA": {
       "direction": "y",
@@ -783,6 +882,24 @@
       "parent": "",
       "description": "Trap length"
     },
+    "XDOT": {
+      "direction": "x",
+      "glyph 1": "period",
+      "point 1": "0",
+      "glyph 2": "period",
+      "point 2": "6",
+      "parent": "XOPQ",
+      "description": "Dot width"
+    },
+    "YDOT": {
+      "direction": "y",
+      "glyph 1": "period",
+      "point 1": "9",
+      "glyph 2": "period",
+      "point 2": "3",
+      "parent": "YOPQ",
+      "description": "Dot height"
+    },
     "XTEQ": {
       "direction": "x",
       "glyph 1": "O",
@@ -800,6 +917,33 @@
       "point 2": "23",
       "parent": "",
       "description": "Y internal curvature"
+    },
+    "XQUC": {
+      "direction": "x",
+      "glyph 1": "O",
+      "point 1": "22",
+      "glyph 2": "O",
+      "point 2": 21,
+      "parent": "XTRA",
+      "description": "X internal curvature uppercase"
+    },
+    "XQLC": {
+      "direction": "x",
+      "glyph 1": "o",
+      "point 1": "22",
+      "glyph 2": "o",
+      "point 2": "21",
+      "parent": "XTRA",
+      "description": "X internal curvature lowercase"
+    },
+    "XQFI": {
+      "direction": "x",
+      "glyph 1": "zero",
+      "point 1": "22",
+      "glyph 2": "zero",
+      "point 2": 21,
+      "parent": "XTRA",
+      "description": "X internal curvature figures"
     },
     "YQUC": {
       "direction": "y",
@@ -7293,7 +7437,7 @@
         "name": "YHAU",
         "direction": "y"
       },
-      "-1 8": {
+      "-1 5": {
         "name": "XUCS",
         "direction": "x"
       },
@@ -8134,6 +8278,38 @@
         "name": "XUCS",
         "direction": "x"
       },
+      "1 0": {
+        "name": "XVAU",
+        "direction": "x"
+      },
+      "5 6": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "13 12": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "25 24": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "28 27": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "20 21": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "8 9": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "-1 6": {
+        "name": "XUCS",
+        "direction": "x"
+      },
       "27 99": {
         "name": "XUCS",
         "direction": "x"
@@ -8225,6 +8401,38 @@
         "name": "YSHU",
         "direction": "y"
       },
+      "23 22": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "15 16": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "9 8": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "1 2": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "18 19": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "26 25": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "12 11": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "4 5": {
+        "name": "YHAU",
+        "direction": "y"
+      },
       "11 99": {
         "name": "XUCS",
         "direction": "x"
@@ -8311,7 +8519,7 @@
         "name": "YHAU",
         "direction": "y"
       },
-      "-1 0": {
+      "-1 26": {
         "name": "XUCS",
         "direction": "x"
       },
@@ -13657,6 +13865,10 @@
         "name": "XSHU",
         "direction": "x"
       },
+      "14 16": {
+        "name": "XSHU",
+        "direction": "x"
+      },
       "5 6": {
         "name": "YSHU",
         "direction": "y"
@@ -13679,6 +13891,30 @@
       },
       "8 7": {
         "name": "YSHU",
+        "direction": "y"
+      },
+      "1 2": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "15 16": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "9 8": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "24 23": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "12 11": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "4 5": {
+        "name": "YHAU",
         "direction": "y"
       },
       "-1 2": {
@@ -14348,6 +14584,14 @@
       },
       "17 99": {
         "name": "XUCR",
+        "direction": "x"
+      },
+      "7 6": {
+        "name": "XQUC",
+        "direction": "x"
+      },
+      "6 5": {
+        "name": "XQUC",
         "direction": "x"
       },
       "3 4": {
@@ -17102,11 +17346,43 @@
         "name": "YSHU",
         "direction": "y"
       },
-      "-1 17": {
+      "24 23": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "36 35": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "10 9": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "16 17": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "19 20": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "31 32": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "5 6": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "13 12": {
+        "name": "YHAU",
+        "direction": "y"
+      },
+      "-1 19": {
         "name": "XUCS",
         "direction": "x"
       },
-      "12 99": {
+      "10 99": {
         "name": "XUCS",
         "direction": "x"
       }
