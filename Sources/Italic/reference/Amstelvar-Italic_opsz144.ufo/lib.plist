@@ -994,6 +994,7 @@
 			<string>macronbelow.case</string>
 			<string>caroncomb-alt.case</string>
 			<string>diagonalbarL</string>
+			<string>Yi-dieresiscomb.case</string>
 			<string>Obarcyr-stroke</string>
 			<string>U-stroke</string>
 			<string>Ha-stroke</string>
@@ -1034,11 +1035,6 @@
 			<string>ha-stroke</string>
 			<string>obarcyr-stroke</string>
 			<string>yu-i</string>
-			<string>Cy-descendercombdiagonal.case</string>
-			<string>Dzhe-descendercomb.case</string>
-			<string>TseDzhe-base.case</string>
-			<string>zhe-descendercomb</string>
-			<string>yu-l.bgr</string>
 		</array>
 	</dict>
 </plist>
