@@ -2,8 +2,4 @@
 <glyph name="hadescender" format="2">
 	<unicode hex="04B3"/>
 	<advance width="698"/>
-	<outline>
-		<component base="x"/>
-		<component base="cy-descendercomb" xOffset="607" yOffset="93"/>
-	</outline>
 </glyph>

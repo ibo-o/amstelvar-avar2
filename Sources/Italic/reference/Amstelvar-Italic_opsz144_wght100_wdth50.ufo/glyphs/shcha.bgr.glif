@@ -2,7 +2,6 @@
 <glyph name="shcha.bgr" format="2">
 	<advance width="1003"/>
 	<outline>
-		<component base="sha"/>
-		<component base="cy-descendercomb" xOffset="923" yOffset="64"/>
+		<component base="shcha"/>
 	</outline>
 </glyph>

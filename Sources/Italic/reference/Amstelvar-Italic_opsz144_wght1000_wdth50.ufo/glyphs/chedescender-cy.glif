@@ -2,8 +2,4 @@
 <glyph name="chedescender-cy" format="2">
 	<unicode hex="04B7"/>
 	<advance width="1090"/>
-	<outline>
-		<component base="che"/>
-		<component base="cy-descendercomb" xOffset="1023" yOffset="137"/>
-	</outline>
 </glyph>

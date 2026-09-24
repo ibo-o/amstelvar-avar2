@@ -1,8 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tse.bgr" format="2">
-	<advance width="1595"/>
-	<outline>
-		<component base="u"/>
-		<component base="cy-descendercomb" xOffset="1009"/>
-	</outline>
+	<advance width="1645"/>
 </glyph>

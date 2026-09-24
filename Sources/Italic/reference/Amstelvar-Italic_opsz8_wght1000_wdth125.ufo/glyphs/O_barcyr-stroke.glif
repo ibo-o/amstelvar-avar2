@@ -1,14 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obarcyr-stroke" format="2">
-	<advance width="1552"/>
-	<outline>
-		<contour>
-			<point x="162.7137451172" y="705.2021484375" type="line"/>
-			<point x="196.2862548828" y="887.5245361328" type="line"/>
-			<point x="790.8896484375" y="883.5245361328" type="line"/>
-			<point x="1403.3388671875" y="887.7978515625" type="line"/>
-			<point x="1369.4930419922" y="705.2021484375" type="line"/>
-			<point x="771.8896484375" y="709.2021484375" type="line"/>
-		</contour>
-	</outline>
+	<advance width="500"/>
 </glyph>

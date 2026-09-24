@@ -2,8 +2,4 @@
 <glyph name="tedescender-cy" format="2">
 	<unicode hex="04AD"/>
 	<advance width="2646"/>
-	<outline>
-		<component base="m"/>
-		<component base="cy-descendercomb" xOffset="2072"/>
-	</outline>
 </glyph>

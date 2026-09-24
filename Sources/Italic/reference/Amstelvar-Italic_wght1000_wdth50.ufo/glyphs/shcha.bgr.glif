@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shcha.bgr" format="2">
-	<advance width="1862"/>
+	<advance width="1872"/>
 	<outline>
-		<component base="sha"/>
-		<component base="cy-descendercomb" xOffset="1777" yOffset="171"/>
+		<component base="shcha"/>
 	</outline>
 </glyph>

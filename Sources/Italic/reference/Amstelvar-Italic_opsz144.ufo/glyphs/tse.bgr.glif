@@ -2,7 +2,6 @@
 <glyph name="tse.bgr" format="2">
 	<advance width="982"/>
 	<outline>
-		<component base="u"/>
-		<component base="cy-descendercomb" xOffset="601"/>
+		<component base="tse"/>
 	</outline>
 </glyph>
