@@ -1007,15 +1007,11 @@
 			<string>dieresiscomb-stack.case</string>
 			<string>macroncomb-stack.case</string>
 			<string>circumflexcomb-stack.case</string>
-			<string>caroncomb-stack.case</string>
 			<string>brevecomb-stack.case</string>
 			<string>dotaccentcomb-stack.case</string>
 			<string>ringcomb-stack.case</string>
 			<string>tildecomb-stack.case</string>
-			<string>hungarumlautcomb-stack.case</string>
 			<string>hookabovecomb-stack.case</string>
-			<string>breveinvertedcomb-stack.case</string>
-			<string>dblgravecomb-stack.case</string>
 			<string>ustraight-stroke</string>
 			<string>yu.bgr-stroke</string>
 			<string>cy-descendercomb</string>
@@ -1036,6 +1032,11 @@
 			<string>hookabovecomb-stack</string>
 			<string>breveinvertedcomb-stack</string>
 			<string>dblgravecomb-stack</string>
+			<string>Cy-descendercombdiagonal.case</string>
+			<string>Dzhe-descendercomb.case</string>
+			<string>TseDzhe-base.case</string>
+			<string>zhe-descendercomb</string>
+			<string>yu-l.bgr</string>
 		</array>
 	</dict>
 </plist>

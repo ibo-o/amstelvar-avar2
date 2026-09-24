@@ -2022,6 +2022,8 @@
 		<string>yu.glif</string>
 		<key>yu-i</key>
 		<string>yu-i.glif</string>
+		<key>yu-l.bgr</key>
+		<string>yu-l.bgr.glif</string>
 		<key>yu.bgr</key>
 		<string>yu.bgr.glif</string>
 		<key>yu.bgr-stroke</key>
@@ -2056,6 +2058,8 @@
 		<string>zeta.glif</string>
 		<key>zhe</key>
 		<string>zhe.glif</string>
+		<key>zhe-descendercomb</key>
+		<string>zhe-descendercomb.glif</string>
 		<key>zhe.bgr</key>
 		<string>zhe.bgr.glif</string>
 		<key>zhebrevecyr</key>

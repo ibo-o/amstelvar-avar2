@@ -96,6 +96,10 @@
 		<string>C_heverticalstroke-cy.glif</string>
 		<key>Chi</key>
 		<string>C_hi.glif</string>
+		<key>Cy-descendercomb.case</key>
+		<string>C_y-descendercomb.case.glif</string>
+		<key>Cy-descendercombdiagonal.case</key>
+		<string>C_y-descendercombdiagonal.case.glif</string>
 		<key>D</key>
 		<string>D_.glif</string>
 		<key>DZcaron</key>
@@ -118,6 +122,8 @@
 		<string>D_ze.glif</string>
 		<key>Dzhe</key>
 		<string>D_zhe.glif</string>
+		<key>Dzhe-descendercomb.case</key>
+		<string>D_zhe-descendercomb.case.glif</string>
 		<key>E</key>
 		<string>E_.glif</string>
 		<key>Eacute</key>
@@ -228,6 +234,8 @@
 		<string>H_.glif</string>
 		<key>Ha</key>
 		<string>H_a.glif</string>
+		<key>Ha-stroke</key>
+		<string>H_a-stroke.glif</string>
 		<key>Hadescender</key>
 		<string>H_adescender.glif</string>
 		<key>Hard</key>
@@ -374,6 +382,8 @@
 		<string>O_acute.glif</string>
 		<key>Obarcyr</key>
 		<string>O_barcyr.glif</string>
+		<key>Obarcyr-stroke</key>
+		<string>O_barcyr-stroke.glif</string>
 		<key>Obreve</key>
 		<string>O_breve.glif</string>
 		<key>Obrevecyr</key>
@@ -524,10 +534,14 @@
 		<string>T_horn.glif</string>
 		<key>Tse</key>
 		<string>T_se.glif</string>
+		<key>TseDzhe-base.case</key>
+		<string>T_seD_zhe-base.case.glif</string>
 		<key>Tshe</key>
 		<string>T_she.glif</string>
 		<key>U</key>
 		<string>U_.glif</string>
+		<key>U-stroke</key>
+		<string>U_-stroke.glif</string>
 		<key>Uacute</key>
 		<string>U_acute.glif</string>
 		<key>Ubreve</key>
@@ -634,6 +648,8 @@
 		<string>Y_tilde.glif</string>
 		<key>Yu</key>
 		<string>Y_u.glif</string>
+		<key>Yu-dash.case</key>
+		<string>Y_u-dash.case.glif</string>
 		<key>Yumacron</key>
 		<string>Y_umacron.glif</string>
 		<key>Z</key>
@@ -2004,6 +2020,8 @@
 		<string>yu.glif</string>
 		<key>yu-i</key>
 		<string>yu-i.glif</string>
+		<key>yu-l.bgr</key>
+		<string>yu-l.bgr.glif</string>
 		<key>yu.bgr</key>
 		<string>yu.bgr.glif</string>
 		<key>yu.bgr-stroke</key>
@@ -2038,6 +2056,8 @@
 		<string>zeta.glif</string>
 		<key>zhe</key>
 		<string>zhe.glif</string>
+		<key>zhe-descendercomb</key>
+		<string>zhe-descendercomb.glif</string>
 		<key>zhe.bgr</key>
 		<string>zhe.bgr.glif</string>
 		<key>zhebrevecyr</key>
