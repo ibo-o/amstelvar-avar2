@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="U-stroke" format="2">
-	<advance width="500"/>
+	<advance width="1560"/>
+	<outline>
+		<contour>
+			<point x="134.9704589844" y="486.8679199219" type="line"/>
+			<point x="166.5235595703" y="657.4663085938" type="line"/>
+			<point x="772.0289306641" y="657.4663085938" type="line"/>
+			<point x="1381.5168457031" y="657.4663085938" type="line"/>
+			<point x="1349.9637451172" y="486.8679199219" type="line"/>
+			<point x="743.4758300781" y="489.8679199219" type="line"/>
+		</contour>
+	</outline>
 </glyph>

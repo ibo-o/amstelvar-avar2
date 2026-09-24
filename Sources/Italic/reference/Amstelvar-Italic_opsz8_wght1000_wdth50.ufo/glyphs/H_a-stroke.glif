@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ha-stroke" format="2">
-	<advance width="500"/>
+	<advance width="1601"/>
+	<outline>
+		<contour>
+			<point x="273.6003417969" y="712.9942626953" type="line"/>
+			<point x="305.2026367188" y="870.0057373047" type="line"/>
+			<point x="806.3826904297" y="867.0057373047" type="line"/>
+			<point x="1287.9787597656" y="870.0057373047" type="line"/>
+			<point x="1256.3764648438" y="712.9942626953" type="line"/>
+			<point x="767.7803955078" y="715.9942626953" type="line"/>
+		</contour>
+	</outline>
 </glyph>

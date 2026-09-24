@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="TseDzhe-base.case" format="2">
+	<advance width="2310"/>
+	<outline>
+		<contour>
+			<point x="43.1483154297" y="0" type="line"/>
+			<point x="61.0083618164" y="94.0002441406" type="line"/>
+			<point x="270.9512939453" y="114.0002441406" type="line"/>
+			<point x="392.6712646484" y="729" type="line"/>
+			<point x="511.4111938477" y="1368.8997192383" type="line"/>
+			<point x="293.8682861328" y="1391.8997192383" type="line"/>
+			<point x="305.1483154297" y="1500" type="line"/>
+			<point x="878.2757568359" y="1500" type="line"/>
+			<point x="857.595703125" y="1391.8997192383" type="line"/>
+			<point x="641.6527709961" y="1368.8997192383" type="line"/>
+			<point x="511.9527587891" y="712" type="line"/>
+			<point x="402.8649902344" y="120.5162353516" type="line"/>
+			<point x="426.8649902344" y="100.5162353516" type="line"/>
+			<point x="1645.9268188477" y="100.5162353516" type="line"/>
+			<point x="1680.9268188477" y="120.5162353516" type="line"/>
+			<point x="1796.0946655273" y="710" type="line"/>
+			<point x="1919.6546020508" y="1368.8997192383" type="line"/>
+			<point x="1701.0516967773" y="1391.8997192383" type="line"/>
+			<point x="1712.3317260742" y="1500" type="line"/>
+			<point x="2287.1791381836" y="1500" type="line"/>
+			<point x="2266.4990844727" y="1391.8997192383" type="line"/>
+			<point x="2050.3161621094" y="1368.8997192383" type="line"/>
+			<point x="1915.6161499023" y="694" type="line"/>
+			<point x="1811.15625" y="114.0002441406" type="line"/>
+			<point x="2070.6649169922" y="94.0002441406" type="line"/>
+			<point x="2052.6815795898" y="0" type="line"/>
+		</contour>
+	</outline>
+	<anchor name="cy_descender" x="1778.2337646484" y="0"/>
+	<anchor name="dzhe_descender" x="1021.4201049805" y="0"/>
+</glyph>
