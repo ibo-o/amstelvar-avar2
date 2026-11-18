@@ -16,18 +16,18 @@
 			<point x="-212" y="1819"/>
 		</contour>
 		<contour>
-			<point x="-126" y="1903" type="qcurve" smooth="yes"/>
-			<point x="-126" y="1848"/>
-			<point x="-57" y="1776"/>
-			<point x="1" y="1776" type="qcurve" smooth="yes"/>
-			<point x="62" y="1776"/>
-			<point x="127" y="1842"/>
-			<point x="127" y="1903" type="qcurve" smooth="yes"/>
-			<point x="127" y="1961"/>
-			<point x="59" y="2033"/>
-			<point x="1" y="2033" type="qcurve" smooth="yes"/>
-			<point x="-60" y="2033"/>
-			<point x="-126" y="1966"/>
+			<point x="-113" y="1903" type="qcurve" smooth="yes"/>
+			<point x="-113" y="1854"/>
+			<point x="-51" y="1789"/>
+			<point x="1" y="1789" type="qcurve" smooth="yes"/>
+			<point x="56" y="1789"/>
+			<point x="114" y="1848"/>
+			<point x="114" y="1903" type="qcurve" smooth="yes"/>
+			<point x="114" y="1955"/>
+			<point x="53" y="2020"/>
+			<point x="1" y="2020" type="qcurve" smooth="yes"/>
+			<point x="-54" y="2020"/>
+			<point x="-113" y="1960"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1500"/>

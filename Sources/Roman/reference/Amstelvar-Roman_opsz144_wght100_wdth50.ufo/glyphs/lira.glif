@@ -46,14 +46,14 @@
 		</contour>
 		<contour>
 			<point x="95" y="655" type="line"/>
-			<point x="99" y="672" type="line"/>
-			<point x="514" y="672" type="line"/>
+			<point x="98" y="669" type="line"/>
+			<point x="513" y="669" type="line"/>
 			<point x="509" y="655" type="line"/>
 		</contour>
 		<contour>
 			<point x="79" y="830" type="line"/>
-			<point x="83" y="846" type="line"/>
-			<point x="524" y="846" type="line"/>
+			<point x="82" y="844" type="line"/>
+			<point x="523" y="844" type="line"/>
 			<point x="519" y="830" type="line"/>
 		</contour>
 	</outline>

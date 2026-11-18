@@ -2,35 +2,35 @@
 <glyph name="hookabovecomb-stack.case" format="2">
 	<outline>
 		<contour>
-			<point x="-154" y="1651" type="line"/>
-			<point x="-154" y="1784" type="line"/>
-			<point x="-106" y="1835" type="line"/>
-			<point x="-86" y="1826"/>
-			<point x="-24" y="1811"/>
-			<point x="15" y="1811" type="qcurve" smooth="yes"/>
-			<point x="79" y="1811"/>
-			<point x="179" y="1868"/>
-			<point x="179" y="1930" type="qcurve" smooth="yes"/>
-			<point x="179" y="1994"/>
-			<point x="62" y="2055"/>
-			<point x="-28" y="2055" type="qcurve" smooth="yes"/>
-			<point x="-93" y="2055"/>
-			<point x="-221" y="2016"/>
-			<point x="-269" y="1980" type="qcurve"/>
+			<point x="-132" y="1651" type="line"/>
+			<point x="-133" y="1784" type="line"/>
+			<point x="-111" y="1807" type="line"/>
+			<point x="-89" y="1798"/>
+			<point x="-24" y="1781"/>
+			<point x="15" y="1781" type="qcurve" smooth="yes"/>
+			<point x="88" y="1781"/>
+			<point x="179" y="1865"/>
+			<point x="179" y="1948" type="qcurve" smooth="yes"/>
+			<point x="179" y="2024"/>
+			<point x="62" y="2095"/>
+			<point x="-28" y="2095" type="qcurve" smooth="yes"/>
+			<point x="-94" y="2095"/>
+			<point x="-235" y="2048"/>
+			<point x="-293" y="2004" type="qcurve"/>
 			<point x="-302" y="2011" type="line"/>
 			<point x="-240" y="2069"/>
 			<point x="-77" y="2131"/>
 			<point x="27" y="2131" type="qcurve" smooth="yes"/>
-			<point x="141" y="2131"/>
-			<point x="313" y="2034"/>
-			<point x="313" y="1929" type="qcurve" smooth="yes"/>
-			<point x="313" y="1829"/>
+			<point x="151" y="2131"/>
+			<point x="313" y="2031"/>
+			<point x="313" y="1947" type="qcurve" smooth="yes"/>
+			<point x="313" y="1837"/>
 			<point x="166" y="1732"/>
 			<point x="62" y="1732" type="qcurve" smooth="yes"/>
-			<point x="21" y="1732"/>
-			<point x="-57" y="1749"/>
-			<point x="-89" y="1765" type="qcurve"/>
-			<point x="-89" y="1651" type="line"/>
+			<point x="12" y="1732"/>
+			<point x="-76" y="1749"/>
+			<point x="-108" y="1765" type="qcurve"/>
+			<point x="-108" y="1651" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="_topright" x="0" y="1500"/>

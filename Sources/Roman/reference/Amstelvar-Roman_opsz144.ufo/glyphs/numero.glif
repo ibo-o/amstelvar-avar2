@@ -67,11 +67,11 @@
 			<point x="1711" y="614"/>
 			<point x="1743" y="611"/>
 			<point x="1743" y="593" type="qcurve" smooth="yes"/>
-			<point x="1743" y="578"/>
+			<point x="1743" y="576"/>
 			<point x="1711" y="568"/>
 			<point x="1448" y="568" type="qcurve" smooth="yes"/>
 			<point x="1186" y="568"/>
-			<point x="1151" y="578"/>
+			<point x="1151" y="576"/>
 		</contour>
 	</outline>
 </glyph>

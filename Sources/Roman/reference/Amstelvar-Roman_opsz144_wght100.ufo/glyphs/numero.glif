@@ -60,18 +60,18 @@
 			<point x="1078.145" y="1291.9"/>
 		</contour>
 		<contour>
-			<point x="1069.65" y="666.695" type="qcurve" smooth="yes"/>
-			<point x="1069.65" y="669.19"/>
-			<point x="1111.045" y="690.15"/>
+			<point x="1070" y="665" type="qcurve"/>
+			<point x="1070" y="667"/>
+			<point x="1111" y="690"/>
 			<point x="1328.495" y="690.15" type="qcurve" smooth="yes"/>
-			<point x="1547.44" y="690.15"/>
-			<point x="1583.845" y="669.19"/>
-			<point x="1583.845" y="666.695" type="qcurve" smooth="yes"/>
-			<point x="1583.845" y="667.695"/>
-			<point x="1547.44" y="639.745"/>
+			<point x="1547" y="690"/>
+			<point x="1584" y="667"/>
+			<point x="1584" y="665" type="qcurve"/>
+			<point x="1584" y="663"/>
+			<point x="1547" y="639"/>
 			<point x="1328.495" y="639.745" type="qcurve" smooth="yes"/>
-			<point x="1111.045" y="639.745"/>
-			<point x="1069.65" y="667.695"/>
+			<point x="1111" y="640"/>
+			<point x="1070" y="663"/>
 		</contour>
 	</outline>
 </glyph>

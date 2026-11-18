@@ -52,6 +52,6 @@
 			<point x="66" y="0" type="line"/>
 		</contour>
 	</outline>
-	<anchor name="bottom" x="270" y="0"/>
+	<anchor name="bottom" x="261" y="0"/>
 	<anchor name="top" x="232" y="920"/>
 </glyph>
