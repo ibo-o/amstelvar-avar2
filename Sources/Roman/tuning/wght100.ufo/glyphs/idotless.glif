@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless" format="2">
 	<unicode hex="0131"/>
-	<advance width="611"/>
+	<advance width="638"/>
 	<outline>
 		<contour>
-			<point x="72" y="0" type="line"/>
-			<point x="72" y="42" type="line"/>
-			<point x="274" y="67" type="line"/>
-			<point x="276" y="527" type="line"/>
-			<point x="273" y="915" type="line"/>
-			<point x="77" y="937" type="line"/>
-			<point x="77" y="987" type="line"/>
-			<point x="326" y="1003" type="line"/>
-			<point x="342" y="1001" type="line"/>
-			<point x="353" y="967" type="line"/>
-			<point x="350" y="527" type="line"/>
-			<point x="357" y="67" type="line"/>
-			<point x="550" y="42" type="line"/>
-			<point x="550" y="0" type="line"/>
+			<point x="61.7857055664" y="0" type="line"/>
+			<point x="61.7857055664" y="82" type="line"/>
+			<point x="243.7844848633" y="107" type="line"/>
+			<point x="246.8462524414" y="527" type="line"/>
+			<point x="240.130065918" y="859.3515625" type="line"/>
+			<point x="66.7857055664" y="881.3515625" type="line"/>
+			<point x="66.7857055664" y="978.3515625" type="line"/>
+			<point x="357.3670043945" y="1004.9692382812" type="line"/>
+			<point x="391.4170532227" y="1002.9692382812" type="line"/>
+			<point x="411.9729614258" y="951.4500732422" type="line"/>
+			<point x="405.2567749023" y="527" type="line"/>
+			<point x="413.3185424805" y="107" type="line"/>
+			<point x="586.3173217773" y="82" type="line"/>
+			<point x="586.3173217773" y="0" type="line"/>
 		</contour>
 	</outline>
 	<anchor name="bottom" x="320" y="0"/>

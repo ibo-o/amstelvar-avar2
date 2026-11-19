@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="2">
 	<unicode hex="0069"/>
-	<advance width="935"/>
+	<advance width="630"/>
 	<outline>
 		<component base="idotless"/>
-		<component base="idot" xOffset="479.3452708006" yOffset="50.6024096386"/>
+		<component base="idot" xOffset="320.4284006834" yOffset="-0.0006177051"/>
 	</outline>
 </glyph>

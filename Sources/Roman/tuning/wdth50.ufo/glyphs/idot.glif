@@ -2,18 +2,18 @@
 <glyph name="idot" format="2">
 	<outline>
 		<contour>
-			<point x="-104" y="1242" type="qcurve" smooth="yes"/>
-			<point x="-104" y="1296"/>
-			<point x="-50" y="1354"/>
-			<point x="0" y="1354" type="qcurve" smooth="yes"/>
-			<point x="50" y="1354"/>
-			<point x="104" y="1296"/>
-			<point x="104" y="1242" type="qcurve" smooth="yes"/>
-			<point x="104" y="1188"/>
-			<point x="50" y="1130"/>
-			<point x="0" y="1130" type="qcurve" smooth="yes"/>
-			<point x="-50" y="1130"/>
-			<point x="-104" y="1188"/>
+			<point x="-117.6367797852" y="1225.9995117188" type="qcurve" smooth="yes"/>
+			<point x="-117.6367797852" y="1286.5451660156"/>
+			<point x="-56.5456542969" y="1351.4544677734"/>
+			<point x="0" y="1351.4544677734" type="qcurve" smooth="yes"/>
+			<point x="56.1820068359" y="1351.4544677734"/>
+			<point x="117.6367797852" y="1285.9996948242"/>
+			<point x="117.6367797852" y="1225.9995117188" type="qcurve" smooth="yes"/>
+			<point x="117.6367797852" y="1165.6356811523"/>
+			<point x="56.7274780273" y="1100.7263793945"/>
+			<point x="0" y="1100.7263793945" type="qcurve" smooth="yes"/>
+			<point x="-56.1820068359" y="1100.7263793945"/>
+			<point x="-117.6367797852" y="1166.1811523438"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1000"/>
