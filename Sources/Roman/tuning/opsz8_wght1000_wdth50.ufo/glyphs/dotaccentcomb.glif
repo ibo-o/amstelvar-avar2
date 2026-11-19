@@ -3,18 +3,18 @@
 	<unicode hex="0307"/>
 	<outline>
 		<contour>
-			<point x="-70.6251220703" y="1351.6423339844" type="qcurve" smooth="yes"/>
-			<point x="-70.6251220703" y="1381.2866210938"/>
-			<point x="-36.1365966797" y="1415.5289916992"/>
-			<point x="-1" y="1415.5289916992" type="qcurve" smooth="yes"/>
-			<point x="32.1519775391" y="1415.5289916992"/>
-			<point x="68.6251220703" y="1380.5481567383"/>
-			<point x="68.6251220703" y="1351.6423339844" type="qcurve" smooth="yes"/>
-			<point x="68.6251220703" y="1324.560546875"/>
-			<point x="35.3827514648" y="1291.0018310547"/>
-			<point x="-1" y="1291.0018310547" type="qcurve" smooth="yes"/>
-			<point x="-33.6442871094" y="1291.0018310547"/>
-			<point x="-70.6251220703" y="1323.5451660156"/>
+			<point x="-276" y="1362" type="qcurve" smooth="yes"/>
+			<point x="-276" y="1448"/>
+			<point x="-134" y="1566"/>
+			<point x="0" y="1566" type="qcurve" smooth="yes"/>
+			<point x="134" y="1566"/>
+			<point x="276" y="1450"/>
+			<point x="276" y="1362" type="qcurve" smooth="yes"/>
+			<point x="276" y="1275"/>
+			<point x="134" y="1158"/>
+			<point x="0" y="1158" type="qcurve" smooth="yes"/>
+			<point x="-134" y="1158"/>
+			<point x="-276" y="1275"/>
 		</contour>
 	</outline>
 	<anchor name="_top" x="0" y="1000"/>
